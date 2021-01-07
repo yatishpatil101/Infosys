@@ -1,2 +1,0 @@
-# Infosys
-Training for infy
